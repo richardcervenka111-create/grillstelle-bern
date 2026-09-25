@@ -4,7 +4,7 @@ Bern hat über hundert öffentliche Grillstellen, aber ob man heute Feuer machen
 
 Live: **https://richardcervenka111-create.github.io/grillstelle-bern/**
 
-Drei Sprachen (DE/EN/SK), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
+Zwei Sprachen (DE/EN), „nächster Punkt“ mit Fussroute, kein Tracking, Standort bleibt im Gerät.
 
 ## Daten
 
